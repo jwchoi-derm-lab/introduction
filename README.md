@@ -47,9 +47,7 @@ National Institutes of Health (NIH), Bethesda, Maryland, USA
 
 ---
 
-# 📚 Selected Publications (Recent 5 Years)
-
-# 📚 Publications (2020–Present)
+# 📚 Publications (Recent 5 Years)
 
 ## 2026
 
