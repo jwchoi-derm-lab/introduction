@@ -47,7 +47,7 @@ National Institutes of Health (NIH), Bethesda, Maryland, USA
 
 ---
 
-# 📚 Selected Publications (Recent Years)
+# 📚 Selected Publications (Recent 5 Years)
 
 ## 2026
 
@@ -126,19 +126,6 @@ This GitHub hosts reproducible research workflows including:
 - Publication-quality visualization
 - Synthetic datasets for reproducibility
 
----
-
-# 🌍 Open Science
-
-Whenever possible, repositories include:
-
-- Reproducible analysis code
-- Complete computational workflows
-- Documentation for reproducing figures and tables
-- Synthetic datasets when patient-level data cannot be shared
-- Detailed README files describing study design and methodology
-
----
 
 # 🤝 Collaboration
 
