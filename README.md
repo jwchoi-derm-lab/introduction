@@ -22,6 +22,7 @@ Our laboratory investigates:
 ## Principal Investigator
 
 **Jeewoong Choi, MD, PhD**
+
 Associate Professor, Dermatologic Surgeon, Department of Dermatology
 Ajou University School of Medicine, Suwon, Republic of Korea
 - Board Member, Korean Society for Skin Cancer (KSSC)
