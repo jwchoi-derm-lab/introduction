@@ -50,7 +50,7 @@ Subspecialty: Dermatologic surgery, skin cancer, hair and nail disorders
 
 ---
 
-## Publications as First/Corresponding Author (2020–2026)
+## Publications as First/Corresponding Author (Recent 5 years)
 
 *The list below highlights publications led by Dr. Choi as first or corresponding author.*
 
