@@ -25,8 +25,12 @@ Our laboratory investigates:
 Associate Professor, Department of Dermatology
 Ajou University School of Medicine, Suwon, Republic of Korea
 
-Dermatologic Surgeon | Active Member, American Society for Dermatologic Surgery (ASDS)
-Board Member, Korean Society for Skin Cancer
+Dermatologic Surgeon
+Board Member, Korean Society for Skin Cancer (KSSC)
+Board Member, Korean Society for Dermatologic Surgery (KSDS)
+Member, American Society for Dermatologic Surgery (ASDS)
+Member, Microbiological Society of Korea (MSK)
+
 
 Contact: [jwchoi@ajou.ac.kr](mailto:jwchoi@ajou.ac.kr)
 
