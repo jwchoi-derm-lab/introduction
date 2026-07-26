@@ -21,7 +21,7 @@ Our laboratory investigates:
 
 ## Principal Investigator
 
-**Jeewoong Choi, MD, PhD**
+**Jeewoong (Jiwoong) Choi, MD, PhD**
 
 [Associate Professor, Dermatologic Surgeon, Department of Dermatology
 Ajou University School of Medicine, Suwon, Republic of Korea](https://www.ajoumc.or.kr/medicineEn/univ/profView.do?deptTp=&deptNo=65&no=660)
