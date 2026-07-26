@@ -23,8 +23,8 @@ Our laboratory investigates:
 
 **Jeewoong Choi, MD, PhD**
 
-Associate Professor, Dermatologic Surgeon, Department of Dermatology
-Ajou University School of Medicine, Suwon, Republic of Korea
+[Associate Professor, Dermatologic Surgeon, Department of Dermatology
+Ajou University School of Medicine, Suwon, Republic of Korea](https://www.ajoumc.or.kr/medicineEn/univ/profView.do?deptTp=&deptNo=65&no=660)
 - Board Member, Korean Society for Skin Cancer (KSSC)
 - Board Member, Korean Society for Dermatologic Surgery (KSDS)
 - Member, American Society for Dermatologic Surgery (ASDS)
@@ -43,7 +43,7 @@ Contact: [jwchoi@ajou.ac.kr](mailto:jwchoi@ajou.ac.kr)
 ### Professional Experience
 
 - Resident & Clinical Fellow, Dermatology, Seoul National University Hospital / Bundang Hospital (2008–2017)
-- Special Volunteer, Cutaneous Microbiome Section, NIAMS, National Institutes of Health (NIH), Bethesda, USA (2024–2025)
+- [Special Volunteer, Cutaneous Microbiome Section, NIAMS, National Institutes of Health (NIH), Bethesda, USA (2024–2025)](https://www.niams.nih.gov/labs/kong-lab#tab-staff)
 
 Subspecialty: Dermatologic surgery, skin cancer, hair and nail disorders
 
